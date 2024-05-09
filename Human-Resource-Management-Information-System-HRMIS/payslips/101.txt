@@ -1,0 +1,11 @@
+		  PAYSLIP
+		2023-11-01
+
+<< Jane Smith >> 
+
+Dept: HR
+Gross Salary: $10833.33
+Allowances: $0.00
+Bonuses: $7500.00
+Tax Deductions: $1950.00
+Net Earnings: $16383.33

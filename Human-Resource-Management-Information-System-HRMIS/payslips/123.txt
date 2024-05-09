@@ -1,0 +1,11 @@
+		  PAYSLIP
+		2023-10-31
+
+<< John Downs >> 
+
+Dept: IT
+Gross Salary: $4166.67
+Allowances: $0.00
+Bonuses: $0.00
+Tax Deductions: $416.67
+Net Earnings: $3750.00

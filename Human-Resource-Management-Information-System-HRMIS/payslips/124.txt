@@ -1,0 +1,11 @@
+		  PAYSLIP
+		2023-10-31
+
+<< John Doe >> 
+
+Dept: Academics
+Gross Salary: $6666.67
+Allowances: $0.00
+Bonuses: $833.33
+Tax Deductions: $866.67
+Net Earnings: $6633.33

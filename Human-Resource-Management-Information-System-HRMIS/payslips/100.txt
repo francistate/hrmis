@@ -1,0 +1,11 @@
+		  PAYSLIP
+		2023-11-01
+
+<< Jaa dnd >> 
+
+Dept: wteu
+Gross Salary: $16666.67
+Allowances: $0.00
+Bonuses: $0.00
+Tax Deductions: $4166.67
+Net Earnings: $12500.00
